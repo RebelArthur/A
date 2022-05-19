@@ -8,3 +8,4 @@ if lesson in ('Islam Religion2' or 'Islam Religion'):
 
 else:
     print(lesson, "," , period, "minutes")
+input("Press ENTER to exit.")

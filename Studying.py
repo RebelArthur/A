@@ -1,5 +1,5 @@
 import random
-lessons = ['Math', 'Literature', 'Chemistry', 'Physics', 'Biology', 'History', 'Geography', 'German', 'Islam Religion', 'Islam Religion2']
+lessons = ['Math', 'Literature', 'Chemistry', 'Physics', 'Biology', 'History', 'Geography', 'German', 'Islam Religion', 'Islam Religion2', 'Health and Traffic Culture']
 lesson = random.choice(lessons)
 period = random.randint(15, 50)
 if lesson in ('Islam Religion2' or 'Islam Religion'):
